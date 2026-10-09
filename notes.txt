@@ -1,1 +1,2 @@
 This is my ftr1 branch Git repository. 
+This is my ftr2 branch Git repository.
